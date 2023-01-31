@@ -1,5 +1,5 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
-    <ActionBar title="LESSON 1" icon="" style="background-color:teal;" />
+    <ActionBar title="LESSON 1" icon="" style="background-color:teal;color:white;" />
     <Gridlayout>
 
       </Gridlayout>
